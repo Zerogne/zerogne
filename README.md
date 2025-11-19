@@ -1,86 +1,118 @@
+<!-- Hero -->
+<div align="center">
+  
+<img width="900" src="https://raw.githubusercontent.com/dnii0412/assets/main/hero-lightpulse.gif" />
+
+# **XUJI**
+### full-stack engineer · digital creator · xp digital founder
+
+</div>
+
+<br/>
+
+<!-- Glass Grid -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="300">
+
+### 🧩 what i do
+<p align="center">
+craft ultra-fast, future-leaning apps with next.js + ts  
+blend design + engineering into aesthetic digital spaces.
+</p>
+
+</td>
+<td align="center" width="300">
+
+### ⚙️ current mode
+<p align="center">
+building XP Digital  
+engineering student at QUT  
+experimenting with ai toolchains + cursor
+</p>
+
+</td>
+<td align="center" width="300">
+
+### 🚀 always leveling
+<p align="center">
+speed, clarity, systems engineering,  
+next-gen UI patterns,  
+aesthetic storytelling
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/><br/>
+
+<!-- Neon Divider -->
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/dnii0412/assets/main/neon-divider.gif" />
+</p>
+
+<br/>
+
+## 🛠 tech stack (visual mode)
+
 <div align="center">
 
-# **Xuji**
-
-### Full-Stack Engineer · Next.js 14 · TypeScript · Designer  
-Founder @ **XP Digital** · Engineering Student @ QUT  
-
-<br/>
-
-<!-- Clean Gradient -->
-<img width="900" src="https://github.com/dnii0412/assets/blob/main/gradient-bar-modern.png" alt="gradient"/>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb,tailwind,figma,vercel,git,ae,pr&theme=light" />
 
 </div>
 
-<br/>
+<br/><br/>
 
-## ⚡ Who I Am
-I build fast, aesthetic, tech-forward experiences — the kind that feel like future apps, not websites.  
-My stack revolves around **Next.js**, **TypeScript**, **MongoDB**, **Shadcn**, and **AI-assisted development**.  
-Most of my projects mix design, engineering, and narrative together like side-quests.
+## 📂 signature builds
 
-Currently:
-- Crafting modern websites via **XP Digital**
-- Building OS-style portfolios  
-- Engineering student diving deeper into systems and hardware  
-- Experimenting with AI tooling + fast content systems  
-
-<br/>
-
-## 🛠 Tech Toolbelt
-<div align="left">
-
-**Frontend:** Next.js · TypeScript · Tailwind · Shadcn · Vercel  
-**Backend:** Node.js · Express · MongoDB Atlas  
-**Tools:** Figma · Premiere · After Effects · Git · Notion  
-**AI Workflow:** Cursor · ChatGPT · v0  
-
-</div>
-
-<br/>
-
-## 🚀 Signature Projects
-### **🖥 Danny-OS**
-My personal portfolio disguised as a mini operating system.
-
-### **🟣 XP Digital**
-Agency building fast, modern, client-focused web experiences.
-
-### **📚 TellU**
-Student review platform with Reddit-inspired UX.
-
-### **📰 ByteHub**
-Short-form tech news built for scroll culture.
-
-<br/>
-
-## 📈 GitHub Insight
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dnii0412&show_icons=true&theme=transparent&hide_border=true" />
+<img width="800" src="https://raw.githubusercontent.com/dnii0412/assets/main/project-cards-glass.png" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-<br/>
-
-## 🤝 Connect
-<div align="left">
-
-- Portfolio: **danny-os.vercel.app**  
-- GitHub: **github.com/dnii0412**  
-- XP Digital: **In development**  
-- Instagram / TikTok / Pinterest: digital content + builds  
+### **Danny-OS** – my digital OS-style portfolio  
+### **TellU** – reddit-style student review platform  
+### **ByteHub** – scroll-friendly tech news  
+### **XP Digital** – client websites built like apps
 
 </div>
 
+<br/><br/>
+
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/dnii0412/assets/main/neon-divider-small.gif" />
+</p>
+
 <br/>
 
----
+## 📊 github analytics (clean UI)
+
+<div align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=dnii0412&theme=radical&show_icons=true&hide_border=true&bg_color=00000000" />
+
+<img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+
+</div>
+
+<br/><br/>
+
+## 🔗 links
+- 🖥 portfolio – **danny-os.vercel.app**  
+- 🟣 github – **github.com/dnii0412**  
+- 🌐 xp digital – coming soon  
+- 🎥 socials – reels, shorts, builds, tech
+
+<br/><br/>
+
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/dnii0412/assets/main/footer-bar.gif" />
+</p>
 
 <div align="center">
   
-### "Build fast. Break limits. Upgrade reality."
+### “design fast. build faster. ship beautifully.”
 
 </div>
