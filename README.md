@@ -1,118 +1,124 @@
-<!-- Hero -->
+<!-- HERO -->
 <div align="center">
-  
-<img width="900" src="https://raw.githubusercontent.com/dnii0412/assets/main/hero-lightpulse.gif" />
 
-# **XUJI**
-### full-stack engineer · digital creator · xp digital founder
+<img width="940" src="https://raw.githubusercontent.com/dnii0412/assets/main/xuji-hero-interface.gif" />
+
+# **X U J I**
+### full-stack engineer • next.js 14 enjoyer • creative technologist
+### founder of xp digital • aesthetic-driven builder
 
 </div>
 
-<br/>
+<br/><br/>
 
-<!-- Glass Grid -->
+<!-- GLASS PANELS -->
 <div align="center">
+  
 <table>
 <tr>
-<td align="center" width="300">
 
-### 🧩 what i do
-<p align="center">
-craft ultra-fast, future-leaning apps with next.js + ts  
-blend design + engineering into aesthetic digital spaces.
-</p>
+<td width="300" align="center">
+  
+<img width="100" src="https://raw.githubusercontent.com/dnii0412/assets/main/icon-core.svg"/>
 
+### CORE
+i build tech that *feels alive* —  
+fast, animated, clean, modern.  
+next.js + ts is the home turf.
+  
 </td>
-<td align="center" width="300">
 
-### ⚙️ current mode
-<p align="center">
-building XP Digital  
-engineering student at QUT  
-experimenting with ai toolchains + cursor
-</p>
+<td width="300" align="center">
 
+<img width="100" src="https://raw.githubusercontent.com/dnii0412/assets/main/icon-focus.svg"/>
+
+### FOCUS
+xp digital projects  
+portfolio OS systems  
+ai-assisted dev flows  
+motion-coded interfaces
+  
 </td>
-<td align="center" width="300">
 
-### 🚀 always leveling
-<p align="center">
-speed, clarity, systems engineering,  
-next-gen UI patterns,  
-aesthetic storytelling
-</p>
+<td width="300" align="center">
 
+<img width="100" src="https://raw.githubusercontent.com/dnii0412/assets/main/icon-future.svg"/>
+
+### FUTURE
+xp digital scaling  
+studying engineering at qut  
+building tools with ai agents  
+designing strange beautiful things  
 </td>
+
 </tr>
 </table>
+
 </div>
 
 <br/><br/>
 
-<!-- Neon Divider -->
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/dnii0412/assets/main/neon-divider.gif" />
+  <img width="940" src="https://raw.githubusercontent.com/dnii0412/assets/main/xuji-divider-pulse.gif" />
 </p>
 
 <br/>
 
-## 🛠 tech stack (visual mode)
+## ⚡ tech stack (xuji edition)
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb,tailwind,figma,vercel,git,ae,pr&theme=light" />
-
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,express,mongodb,figma,vercel,git,ae,pr&theme=light" />
 </div>
 
 <br/><br/>
 
-## 📂 signature builds
+## 🎛 signature builds (high visual)
 
 <div align="center">
 
-<img width="800" src="https://raw.githubusercontent.com/dnii0412/assets/main/project-cards-glass.png" />
+<img width="850" src="https://raw.githubusercontent.com/dnii0412/assets/main/xuji-project-cards.gif" />
 
-### **Danny-OS** – my digital OS-style portfolio  
-### **TellU** – reddit-style student review platform  
-### **ByteHub** – scroll-friendly tech news  
-### **XP Digital** – client websites built like apps
+### **Danny-OS** → your personal digital operating system  
+### **TellU** → reddit-style student review world  
+### **ByteHub** → short-form tech news for fast attention  
+### **XP Digital** → agency building ultra-modern web experiences  
 
 </div>
 
 <br/><br/>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/dnii0412/assets/main/neon-divider-small.gif" />
+  <img width="940" src="https://raw.githubusercontent.com/dnii0412/assets/main/xuji-divider-softglow.gif" />
 </p>
 
 <br/>
 
-## 📊 github analytics (clean UI)
+## 📊 analytics (clean ui)
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=dnii0412&theme=radical&show_icons=true&hide_border=true&bg_color=00000000" />
+<img width="410" src="https://github-readme-stats.vercel.app/api?username=dnii0412&theme=transparent&show_icons=true&hide_border=true" />
 
-<img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+<img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
 <br/><br/>
 
-## 🔗 links
-- 🖥 portfolio – **danny-os.vercel.app**  
-- 🟣 github – **github.com/dnii0412**  
-- 🌐 xp digital – coming soon  
-- 🎥 socials – reels, shorts, builds, tech
+## 🌐 links
+- portfolio → **danny-os.vercel.app**
+- github → **github.com/dnii0412**
+- xp digital → **coming soon**
+- socials → **shorts • reels • tech drops**
 
 <br/><br/>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/dnii0412/assets/main/footer-bar.gif" />
+  <img width="940" src="https://raw.githubusercontent.com/dnii0412/assets/main/xuji-footer-scanline.gif" />
 </p>
 
 <div align="center">
-  
-### “design fast. build faster. ship beautifully.”
+
+### “build like you’re bending reality.”
 
 </div>
