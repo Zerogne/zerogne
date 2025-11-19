@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:0076ff&height=180&section=header&text=DANNY%20XUJI%20BATAA&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:0076ff&height=180&section=header&text=XUJI&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Intro -->
