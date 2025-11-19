@@ -6,8 +6,7 @@
 
 <div align="center">
 
-  <!-- Avatar / icon (can be your pfp or a character like Hollow Knight) -->
-  <img src="https://YOUR-CHARACTER-GIF-OR-PNG" alt="Xuji Avatar" width="110" />
+ 
 
   <h2>yo, i'm <strong>XUJI</strong> 👾</h2>
 
@@ -64,14 +63,8 @@ I bounce between:
 
 <p align="left">
   <!-- Socials -->
-  <a href="mailto:YOUR-EMAIL-HERE">
+  <a href="mailto:k2naysaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Message%20Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/YOUR-SPOTIFY">
-    <img src="https://img.shields.io/badge/Spotify-Coding%20Playlist-22c55e?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
@@ -84,7 +77,7 @@ I bounce between:
 
   <!-- total contributions / streak block -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=dnii0412&theme=tokyonight&hide_border=true&background=0d1117"
+    src="https://github-readme-streak-stats.herokuapp.com?user=zerogne&theme=tokyonight&hide_border=true&background=0d1117"
     alt="GitHub Streak"
     width="440"
   />
@@ -93,7 +86,7 @@ I bounce between:
 
   <!-- overall stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=dnii0412&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=zerogne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
     alt="GitHub Stats"
     width="440"
   />
@@ -102,7 +95,7 @@ I bounce between:
 
   <!-- languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
     alt="Top Langs"
     width="340"
   />
